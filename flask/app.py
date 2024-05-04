@@ -9,5 +9,7 @@ def classify_image():
 
 
 
+# To run the server, run $ flask run
+# Will open on port 5000
 if __name__ == "__main__":
     app.run(debug=True)
